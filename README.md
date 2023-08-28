@@ -23,13 +23,14 @@
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//python.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//java.svg" alt="Java" height="50" />   
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Tableau.svg" alt="Tableau" height="50" />   
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//flask.svg" alt="Tableau" height="50" />   
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Tableau.svg" alt="Tableau" height="50" />
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//apache_spark.svg" alt="apache_spark" height="50" />   
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//flask.svg" alt="Flask" height="50" />   
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//html5.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//bootstrap.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//mysql.svg" alt="Mysql" height="50" />  
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//oracle.svg" alt="Oracle" height="50" /> 
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//sas.svg" alt="Tableau" height="50" />
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//sas.svg" alt="SAS" height="50" />
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//git.svg" alt="Git" height="50" />  
 </div>
 
@@ -56,7 +57,6 @@
 <!-- REFERENCE: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Sparkify: churn prediction with PySpark](https://medium.com/@alaeddine.grine/sparkify-churn-prediction-with-pyspark-47f3c166a952?source=rss-f04d116a73e4------2)
 - [Insights into Boston AirBnB data](https://medium.com/@alaeddine.grine/insights-into-boston-airbnb-data-a418c27626d1?source=rss-f04d116a73e4------2)
 <!-- BLOG-POST-LIST:END -->
