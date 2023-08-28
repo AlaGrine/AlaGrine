@@ -57,7 +57,6 @@
 <!-- REFERENCE: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Sparkify: churn prediction with PySpark](https://medium.com/@alaeddine.grine/sparkify-churn-prediction-with-pyspark-47f3c166a952?source=rss-f04d116a73e4------2)
 - [Insights into Boston AirBnB data](https://medium.com/@alaeddine.grine/insights-into-boston-airbnb-data-a418c27626d1?source=rss-f04d116a73e4------2)
 <!-- BLOG-POST-LIST:END -->
