@@ -1,7 +1,7 @@
 ### Hi there, I'm Ala Grine! 👋
 
-- 🎖️ I am a [certified](https://drive.google.com/file/d/1Vz7w_ezlW58JJ-KRiawm4w55_UxDONL9/view?usp=drive_link) data scientist. I like building machine learning apps and training deep neural networks.
-- 🔭 Currently Data Analytics senior manager.
+- 🎖️ I am a [certified](https://graduation.udacity.com/confirm/e/0d20c814-dba3-11ed-9653-db707720509e) data scientist. I like building machine learning apps and training deep neural networks.
+- 🔭 Currently Data Analytics manager.
 - 🎯 I'm currently sharpening my machine learning skills.
 - 📫 How to reach me: alaeddine.grine@gmail.com
 
