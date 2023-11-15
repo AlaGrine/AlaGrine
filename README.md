@@ -65,6 +65,7 @@
 <!-- REFERENCE: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Forecasting Bitcoin closing price series](https://medium.com/@alaeddine.grine/forecasting-bitcoin-closing-price-series-f280bd6766c1?source=rss-f04d116a73e4------2)
 - [Toxic Comment Classification](https://medium.com/@alaeddine.grine/toxic-comment-classification-317628632336?source=rss-f04d116a73e4------2)
 - [Sparkify: churn prediction with PySpark](https://medium.com/@alaeddine.grine/sparkify-churn-prediction-with-pyspark-47f3c166a952?source=rss-f04d116a73e4------2)
 - [Insights into Boston AirBnB data](https://medium.com/@alaeddine.grine/insights-into-boston-airbnb-data-a418c27626d1?source=rss-f04d116a73e4------2)
