@@ -25,6 +25,7 @@
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//python.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Pandas.svg" alt="Pandas" height="50" />  
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//tensorflow.svg" alt="Tensorflow" height="50" />  
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//pytorch-ar21" alt="PyTorch" height="50" /> 
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//sklearn.svg" alt="Sklearn" height="50" /> 
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//apache_spark.svg" alt="apache_spark" height="50" />  
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//flask.svg" alt="Flask" height="50" />    
