@@ -22,17 +22,16 @@
 ## My Skill Set
 
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//python.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Pandas.svg" alt="Pandas" height="50" />  
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//python.svg" alt="Python" height="50" />   
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//tensorflow.svg" alt="Tensorflow" height="50" />  
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//pytorch-ar21.svg" alt="PyTorch" height="50" /> 
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//apache_spark.svg" alt="apache_spark" height="50" /> 
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//sklearn.svg" alt="Sklearn" height="50" /> 
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//apache_spark.svg" alt="apache_spark" height="50" />  
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//flask.svg" alt="Flask" height="50" />    
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Pandas.svg" alt="Pandas" height="50" /> 
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//java.svg" alt="Java" height="50" />   
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Tableau.svg" alt="Tableau" height="50" />
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//flask.svg" alt="Flask" height="50" />    
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//html5.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//bootstrap.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//mysql.svg" alt="Mysql" height="50" />  
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//oracle.svg" alt="Oracle" height="50" /> 
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//sas.svg" alt="SAS" height="50" />
