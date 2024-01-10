@@ -1,4 +1,4 @@
-### Hi there, I'm Ala Grine! 👋
+### Hi there, I'm Ala Eddine Grine! 👋
 
 - 🎖️ I'm a certified [data scientist professional](https://graduation.udacity.com/confirm/e/0d20c814-dba3-11ed-9653-db707720509e) and [Tensorflow Developer](https://www.credential.net/ddf9b724-6d86-457f-b167-7cbbd43bce29). I'm fluent in programming languages such as Python and Java, database systems like SQL, and data visualization tools such as Tableau. 
 - 🎓 I hold a Master's degree in Telecommunication Engineering. 
