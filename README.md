@@ -1,9 +1,9 @@
 ### Hi there, I'm Ala Grine! 👋
 
-- 🎖️ I am a [certified](https://graduation.udacity.com/confirm/e/0d20c814-dba3-11ed-9653-db707720509e) data scientist professional with expertise in programming languages such as Python and Java, SQL databases, and data visualisation tools such as Tableau.
+- 🎖️ I'm a certified [data scientist professional](https://graduation.udacity.com/confirm/e/0d20c814-dba3-11ed-9653-db707720509e) and [Tensorflow Developer](https://www.credential.net/ddf9b724-6d86-457f-b167-7cbbd43bce29). I'm fluent in programming languages such as Python and Java, database systems like SQL, and data visualization tools such as Tableau. 
 - 🎓 I hold a Master's degree in Telecommunication Engineering. 
 - 🔭 I'm currently leading network analytics at [Ooredoo TN](https://www.ooredoo.tn/Business/en/accueil).
-- 🎯 I'm skilled in most steps of data science: pre-processing data, applying statistical methods, building machine learning models, visualising data and communicating results.
+- 🎯 I'm currently learning how to develop LLM apps using LangChain.
 - 📫 How to reach me: alaeddine.grine@gmail.com
 
 <br/>
