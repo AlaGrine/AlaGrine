@@ -65,8 +65,8 @@
 <!-- REFERENCE: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Resume scanner: Leverage the power of LLM to improve your resume](https://medium.com/thedeephub/resume-scanner-leverage-the-power-of-llm-to-improve-your-resume-401a0cb49cd7?source=rss-f04d116a73e4------2)
-- [RAG chatbot powered by Langchain, OpenAI, Google Generative AI and Hugging Face APIs](https://medium.com/thedeephub/rag-chatbot-powered-by-langchain-openai-google-generative-ai-and-hugging-face-apis-6a9b9d7d59db?source=rss-f04d116a73e4------2)
+- [Resume scanner: Leverage the power of LLM to improve your resume](https://medium.com/@alaeddine.grine/resume-scanner-leverage-the-power-of-llm-to-improve-your-resume-401a0cb49cd7?source=rss-f04d116a73e4------2)
+- [RAG chatbot powered by Langchain, OpenAI, Google Generative AI and Hugging Face APIs](https://medium.com/@alaeddine.grine/rag-chatbot-powered-by-langchain-openai-google-generative-ai-and-hugging-face-apis-6a9b9d7d59db?source=rss-f04d116a73e4------2)
 - [Artwork Classification in PyTorch](https://medium.com/@alaeddine.grine/artwork-classification-in-pytorch-b4f3395b877e?source=rss-f04d116a73e4------2)
 - [LinkedIn Job Scraper and Matcher](https://medium.com/@alaeddine.grine/linkedin-job-scraper-and-matcher-85d0308ef9aa?source=rss-f04d116a73e4------2)
 - [Forecasting Bitcoin closing price series](https://medium.com/@alaeddine.grine/forecasting-bitcoin-closing-price-series-f280bd6766c1?source=rss-f04d116a73e4------2)
