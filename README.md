@@ -21,6 +21,46 @@
 
 ## My Skill Set
 
+<div align="center">
+    <table >
+     <tr>
+        <td><b style="font-size:30px">Programming languages</b>
+        <div align="center"> 
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//python.svg" alt="Python" height="75" /> 
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//java.svg" alt="Java" height="75" />   
+</div>
+        </td>
+        <td><b style="font-size:30px">Machine Learning and deep learning</b>
+        <div align="center"> 
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//python.svg" alt="Python" height="75" /> 
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//java.svg" alt="Java" height="75" />   
+</div>
+<br/>
+        </td>
+     </tr>
+     <tr>
+       <td><b style="font-size:30px">WEB applications and data visualisation</b>
+       <div align="center">  
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Tableau.svg" alt="Tableau" height="75" />
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//flask.svg" alt="Flask" height="75" />    
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//html5.svg" alt="HTML5" height="75" />  
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" height="75" />
+</div>
+       </td>
+        <td><b style="font-size:30px">Databases</b>
+        <div align="center"> 
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//mysql.svg" alt="Mysql" height="100" />  
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//oracle.svg" alt="Oracle" height="100" /> 
+</div>
+        </td>
+     </tr>
+    </table>
+</div>
+
+<br>
+<br>
+<br>
+
 #### Programming languages
 
 <div align="center"> 
