@@ -45,6 +45,7 @@
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Pandas.svg" alt="Pandas" height="75" /> 
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//hugging-face-svgrepo-com.svg" alt="huggingFace" height="50" /> 
                 </div>
+                <br>
             </td>
         </tr>
         <tr>            
@@ -64,6 +65,7 @@
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Tableau.svg" alt="Tableau" height="75" />
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//plotly-logo-vector.svg" alt="Plotly" height="75" />
                 </div>
+                <br>
             </td>          
         </tr>
         <tr>            
