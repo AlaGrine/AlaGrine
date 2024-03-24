@@ -31,9 +31,13 @@
 </div>
         </td>
         <td><b style="font-size:30px">Machine Learning and deep learning</b>
-        <div align="center"> 
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//python.svg" alt="Python" height="75" /> 
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//java.svg" alt="Java" height="75" />   
+   <div align="center">  
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//tensorflow.svg" alt="Tensorflow" height="75" />  
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//pytorch-ar21.svg" alt="PyTorch" height="75" /> 
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//apache_spark.svg" alt="apache_spark" height="75" /> 
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//sklearn.svg" alt="Sklearn" height="75" /> 
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Pandas.svg" alt="Pandas" height="75" /> 
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//hugging-face-svgrepo-com.svg" alt="huggingFace" height="75" /> 
 </div>
 <br/>
         </td>
