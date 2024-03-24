@@ -45,17 +45,11 @@
                 </div>
             </td>
         </tr>
-        <tr>
-            <th style="width:50%">Databases</th>
+        <tr>            
             <th style="width:50%">WEB applications and data visualisation</th>
+            <th style="width:50%">Databases</th>
         </tr>
         <tr>
-            <td>
-                <div align="center">
-                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//mysql.svg" alt="Mysql" height="75" />  
-                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//oracle.svg" alt="Oracle" height="75" /> 
-                </div>
-            </td>
             <td>
                 <div align="center">
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Tableau.svg" alt="Tableau" height="50" />
@@ -64,6 +58,12 @@
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" height="50" />
                 </div>
             </td>
+            <td>
+                <div align="center">
+                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//mysql.svg" alt="Mysql" height="75" />  
+                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//oracle.svg" alt="Oracle" height="75" /> 
+                </div>
+            </td>            
         </tr>
     </table>
 </div>
