@@ -24,8 +24,8 @@
 <div align="center">
     <table style="width:100%">
         <tr>
-            <th style="width:50%">Programming languages</th>
-            <th style="width:50%">Machine Learning and deep learning</th> 
+            <th style="width:50%"><b>Programming languages</b></th>
+            <th style="width:50%"><b>Machine Learning and deep learning</b></th> 
         </tr>
         <tr>
             <td width="50%">
@@ -52,8 +52,8 @@
             </td>
         </tr>
         <tr>            
-            <th style="width:50%">Databases</th>
-            <th style="width:50%">data visualisation</th>            
+            <th style="width:50%"><b>Databases</b></th>
+            <th style="width:50%"><b>data visualisation</b></th>            
         </tr>
         <tr>
             <td>
@@ -69,14 +69,14 @@
                 <br>
                 <div align="center">
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Tableau.svg" alt="Tableau" height="75" />
-                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//plotly-logo-vector.svg" alt="Plotly" height="75" />
+                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//plotly-logo-vector.svg" alt="Plotly" height="100" />
                 </div>
                 <br>
             </td>          
         </tr>
         <tr>            
-            <th style="width:50%">WEB applications</th>
-            <th style="width:50%">LLM-based applications</th>            
+            <th style="width:50%"><b>WEB applications</b></th>
+            <th style="width:50%"><b>LLM-based applications</b></th>            
         </tr>
         <tr>
             <td>
