@@ -55,8 +55,8 @@
             <td>
                 <div align="center">
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//mysql.svg" alt="Mysql" height="75" />  
-                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//oracle.svg" alt="Oracle" height="75" /> 
-                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//microsoft-sql-server-logo-svg-vector.svg" alt="sqlServer" height="75" />
+                    <img style="margin: 20px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//oracle.svg" alt="Oracle" height="75" /> 
+                    <img style="margin: 20px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//microsoft-sql-server-logo-svg-vector.svg" alt="sqlServer" height="75" />
                 </div>
             </td>  
             <td>
@@ -80,7 +80,7 @@
             </td>  
             <td>
                 <div align="center">
-                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//langchain.png" alt="Langchain" height="75" />
+                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Langchain_2.svg" alt="Langchain" height="75" />
                 </div>
             </td>          
         </tr>
