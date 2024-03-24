@@ -24,13 +24,17 @@
 <div align="center">
     <table >
      <tr>
-        <td><b style="font-size:30px">Programming languages</b>
+    <th style="width:50%">Programming languages</th>
+    <th>Machine Learning and deep learning</th> 
+  </tr>
+  <tr>
+        <td>
         <div align="center"> 
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//python.svg" alt="Python" height="75" /> 
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//java.svg" alt="Java" height="75" />   
 </div>
         </td>
-        <td><b style="font-size:30px">Machine Learning and deep learning</b>
+        <td>
    <div align="center">  
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//tensorflow.svg" alt="Tensorflow" height="75" />  
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//pytorch-ar21.svg" alt="PyTorch" height="75" /> 
@@ -39,7 +43,6 @@
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Pandas.svg" alt="Pandas" height="75" /> 
 <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//hugging-face-svgrepo-com.svg" alt="huggingFace" height="75" /> 
 </div>
-<br/>
         </td>
      </tr>
      <tr>
