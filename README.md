@@ -29,12 +29,15 @@
         </tr>
         <tr>
             <td width="50%">
+                <br>
                 <div align="center"> 
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//python.svg" alt="Python" height="75" /> 
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//java.svg" alt="Java" height="75" />   
                 </div>
+                <br>
             </td>
             <td width="50%">
+                <br>
                 <div align="center">  
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//tensorflow.svg" alt="Tensorflow" height="50" />  
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//pytorch-ar21.svg" alt="PyTorch" height="50" /> 
@@ -54,13 +57,16 @@
         </tr>
         <tr>
             <td>
+                <br>
                 <div align="center">
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//mysql.svg" alt="Mysql" height="75" />  
                     <img style="margin: 20px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//oracle.svg" alt="Oracle" height="75" /> 
                     <img style="margin: 20px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//microsoft-sql-server-logo-svg-vector.svg" alt="sqlServer" height="75" />
                 </div>
+                <br>
             </td>  
             <td>
+                <br>
                 <div align="center">
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Tableau.svg" alt="Tableau" height="75" />
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//plotly-logo-vector.svg" alt="Plotly" height="75" />
@@ -74,16 +80,20 @@
         </tr>
         <tr>
             <td>
+                <br>
                 <div align="center">
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//flask.svg" alt="Flask" height="75" />    
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//html5.svg" alt="HTML5" height="75" />  
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" height="75" />
                 </div>
+                <br>
             </td>  
             <td>
+                <br>
                 <div align="center">
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//langchain.svg" alt="Langchain" height="50" />
                 </div>
+                <br>
             </td>          
         </tr>
     </table>
