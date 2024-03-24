@@ -22,7 +22,7 @@
 ## My Skill Set
 
 <div align="center">
-    <table >
+    <table style="width:100%">
         <tr>
             <th style="width:50%">Programming languages</th>
             <th style="width:50%">Machine Learning and deep learning</th> 
