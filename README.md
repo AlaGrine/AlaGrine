@@ -32,30 +32,30 @@
 #### Machine Learning and deep learning
 
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//tensorflow.svg" alt="Tensorflow" height="50" />  
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//pytorch-ar21.svg" alt="PyTorch" height="50" /> 
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//apache_spark.svg" alt="apache_spark" height="50" /> 
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//sklearn.svg" alt="Sklearn" height="50" /> 
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Pandas.svg" alt="Pandas" height="50" /> 
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//hugging-face-svgrepo-com.svg" alt="huggingFace" height="50" /> 
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//tensorflow.svg" alt="Tensorflow" height="75" />  
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//pytorch-ar21.svg" alt="PyTorch" height="75" /> 
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//apache_spark.svg" alt="apache_spark" height="75" /> 
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//sklearn.svg" alt="Sklearn" height="75" /> 
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Pandas.svg" alt="Pandas" height="75" /> 
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//hugging-face-svgrepo-com.svg" alt="huggingFace" height="75" /> 
 </div>
 <br/>
 
 #### WEB applications and data visualisation
 
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Tableau.svg" alt="Tableau" height="50" />
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//flask.svg" alt="Flask" height="50" />    
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//html5.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" height="50" />
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Tableau.svg" alt="Tableau" height="75" />
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//flask.svg" alt="Flask" height="75" />    
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//html5.svg" alt="HTML5" height="75" />  
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" height="75" />
 </div>
 <br/>
 
 #### Databases
 
 <div align="center"> 
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//mysql.svg" alt="Mysql" height="50" />  
-<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//oracle.svg" alt="Oracle" height="50" /> 
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//mysql.svg" alt="Mysql" height="100" />  
+<img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//oracle.svg" alt="Oracle" height="100" /> 
 </div>
 
 <!-- <div align="center">
