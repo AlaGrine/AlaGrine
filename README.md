@@ -39,6 +39,8 @@
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//tensorflow.svg" alt="Tensorflow" height="50" />  
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//pytorch-ar21.svg" alt="PyTorch" height="50" /> 
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//apache_spark.svg" alt="apache_spark" height="50" /> 
+                </div>
+                <div align="center">
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//sklearn.svg" alt="Sklearn" height="50" /> 
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Pandas.svg" alt="Pandas" height="75" /> 
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//hugging-face-svgrepo-com.svg" alt="huggingFace" height="50" /> 
@@ -46,25 +48,41 @@
             </td>
         </tr>
         <tr>            
-            <th style="width:50%">WEB applications and data visualisation</th>
             <th style="width:50%">Databases</th>
+            <th style="width:50%">data visualisation</th>            
         </tr>
         <tr>
             <td>
                 <div align="center">
-                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Tableau.svg" alt="Tableau" height="50" />
-                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//flask.svg" alt="Flask" height="50" />    
-                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//html5.svg" alt="HTML5" height="50" />  
-                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" height="50" />
-                </div>
-            </td>
-            <td>
-                <div align="center">
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//mysql.svg" alt="Mysql" height="75" />  
                     <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//oracle.svg" alt="Oracle" height="75" /> 
-                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//microsoft-sql-server-logo-svg-vector.svg" alt="sqlServer" height="50" />
+                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//microsoft-sql-server-logo-svg-vector.svg" alt="sqlServer" height="75" />
                 </div>
-            </td>            
+            </td>  
+            <td>
+                <div align="center">
+                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//Tableau.svg" alt="Tableau" height="75" />
+                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//plotly-logo-vector.svg" alt="Plotly" height="75" />
+                </div>
+            </td>          
+        </tr>
+        <tr>            
+            <th style="width:50%">WEB applications</th>
+            <th style="width:50%">LLM-based applications</th>            
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//flask.svg" alt="Flask" height="75" />    
+                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//html5.svg" alt="HTML5" height="75" />  
+                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" height="75" />
+                </div>
+            </td>  
+            <td>
+                <div align="center">
+                    <img style="margin: 10px" src="https://github.com/AlaGrine/AlaGrine/blob/main/SVGs//langchain.png" alt="Langchain" height="75" />
+                </div>
+            </td>          
         </tr>
     </table>
 </div>
