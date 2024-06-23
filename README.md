@@ -4,7 +4,7 @@
 - 🎓 I hold a Master's degree in Telecommunication Engineering.
 - 🔭 I'm currently leading network analytics at [Ooredoo TN](https://www.ooredoo.tn/Business/en/accueil).
 - 📝 I'm passionate about AI and machine learning. I enjoy sharing my knowledge and learning journey through writing. View my Medium articles [here](https://medium.com/@alaeddine.grine).
-- 🎯 I'm currently learning how to develop LLM-based applications with [Llamaindex](https://www.llamaindex.ai/).
+- 🎯 I'm currently learning RUST.
 - 📫 How to reach me: alaeddine.grine@gmail.com
 
 <br/>
